@@ -54,4 +54,4 @@ The `library_management.sql` file contains all the SQL commands for setting up a
     * This query uses `DISTINCT` with a `JOIN` to list unique author names who have published books in the latter half of the 20th century or later.
 
 ## Demo Video
-* Link: 
+* Link: https://youtu.be/4tlhej2G3yo
