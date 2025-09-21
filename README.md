@@ -52,3 +52,6 @@ The `library_management.sql` file contains all the SQL commands for setting up a
     * This query uses a `JOIN` and the `COUNT` aggregate function to determine how many books a specific author has in the database.
 5.  **List all authors who have books published after the year 1950.**
     * This query uses `DISTINCT` with a `JOIN` to list unique author names who have published books in the latter half of the 20th century or later.
+
+## Demo Video
+* Link: 
